@@ -5,6 +5,11 @@
 //GLOBAL VARIABLES
 /* global $ */
 
+$("button").click(function(){
+    var innput = $("input").val();
+    $("#result").text(innput);
+    console.log(innput);
+});
 
 
 // DOCUMENT READY FUNCTION BELOW
