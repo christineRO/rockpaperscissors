@@ -6,12 +6,12 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 ## Day 1
 
 #### Planning
-- [ ] Complete the project planning document.
+- [x] Complete the project planning document.
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
-- [ ] Fork this repository to your Github account and pull it down to Gitpod
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Fork this repository to your Github account and pull it down to Gitpod
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
 
 ### JavaScript
 - [x] Add a click handler that displays the value of the input within a div
@@ -22,32 +22,32 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [x] Customize your HTML with CSS
 
 #### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website using the link on the session agenda.
+- [x] Push your changes!
+- [x] Save and submit your website using the link on the session agenda.
 
 ## Day 2
 
 ### Javascript
 
-- [ ] Outside of your click handler, declare the variables you'll need to track the user choice, computer choice and winner and assign them values of empty strings.
-- [ ] Outside of your click handler, declare a randomNumber variable and set it equal to 0
-- [ ] In your click handler, generate a random number and assign it to the randomNumber variable
-- [ ] In your click handler, store the input value in a variable
-- [ ] In your click handler, display user input to the screen
+- [X] Outside of your click handler, declare the variables you'll need to track the user choice, computer choice and winner and assign them values of empty strings.
+- [X] Outside of your click handler, declare a randomNumber variable and set it equal to 0
+- [X] In your click handler, generate a random number and assign it to the randomNumber variable
+- [X] In your click handler, store the input value in a variable
+- [X] In your click handler, display user input to the screen
 #### Wrap
-- [ ] Push your changes!
+- [X] Push your changes!
 
 ## Day 3
 
 ## JavaScript
-- [ ] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the computer choice  variable
-- [ ] Display the computer choice to the screen
-- [ ] Write a  statement that compares the userChoice to the computerChoice to determine the winner of the game
-- [ ] Display the winner to the screen in a div
-- [ ] Clear the input value once a result is displayed
+- [X] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the computer choice  variable
+- [X] Display the computer choice to the screen
+- [X] Write a  statement that compares the userChoice to the computerChoice to determine the winner of the game
+- [X] Display the winner to the screen in a div
+- [X] Clear the input value once a result is displayed
 
 #### Wrap
-- [ ] Push your changes!
+- [X] Push your changes!
 
 ## Projects Extensions:
 - [ ] Style the page to fit your personality
